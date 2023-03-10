@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Souto @gabesouto
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning REACT-REDUX
 - 📫 How to reach me ...soutogabriel04@gmail.com
 --->
