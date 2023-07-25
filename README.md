@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ORM
 - 📫 How to reach me ...soutogabriel04@gmail.com
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabesouto)](https://github.com/gabesouto/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabesouto&show_icons=true&theme=dracula)
