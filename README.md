@@ -13,7 +13,11 @@
 </div>
 
 ---
-
+<div align="center">
+  <a href="https://github.com/polianamarques">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabesouto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabesouto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 ### Minhas Tecnologias 💻
 
 Nesta seção, você encontrará algumas das tecnologias em que tenho experiência e que utilizo em meus projetos de desenvolvimento web. Estou constantemente buscando aprender e aprimorar minhas habilidades, mas as seguintes tecnologias são as que atualmente domino:
