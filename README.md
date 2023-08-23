@@ -28,7 +28,7 @@ align="right">
 
 Hey there!! I am Gabriel :wave:
 
-I am a dedicated full-stack developer with experience in teaching the English language and a degree in Physical Education. My goal is to create a positive impact
+I am a dedicated full-stack developer with experience in teaching the English language and a degree in Physical Education. 
 
 
 My technology stack includes **Typescript**, **Express.js**, and **Node.js**, and I am skilled in using **Sequelize** for effective data management. Additionally, I have experience with testing tools like **Jest**, **Mocha**, **Chai**, and **Sinon**. I am knowledgeable in **MySQL** for structured data storage and retrieval, and I am familiar with **Docker** and **Docker Compose** for seamless deployment.
