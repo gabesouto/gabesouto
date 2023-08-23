@@ -1,31 +1,57 @@
-### Hi there, I'm Gabriel Souto! 👋
+<h1 align="center"> Gabriel Dos Santos Souto </h1>
+    
+<div align="center">
+<b>Full-Stack Developer</b>
+<br>
+<br>
 
-**Personal**
-- 🖥️ I am a **fullstack developer**
-- 📖 Currently a student at [Trybe](https://www.betrybe.com/)
-- 👨‍🏫 I used to work as an english instructor
-- 🎓 I have a  degree in Physical education and health
+<blockquote>
+    <p><i>
+       "The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater." - J.R.R. Tolkien, The Fellowship of the Ring
+    </i></p>
+</blockquote>
+</div>
 
-<div> 
+
+
+## About me
+
+
+
+
+<div align="right" style="margin:auto">
+     <a href="https://github.com/gabesouto">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabesouto&theme=cobalt&hide_border=false&&layout=compact&include_all_commits=true" alt="most used languages"
+align="right">
+    </a>
+</div>
+
+
+Hey there!! I am Gabriel :wave:
+
+I am a dedicated full-stack developer with experience in teaching the English language and a degree in Physical Education. My goal is to create a positive impact
+
+My technology stack includes **Next.js**, **React.js**, **CSS**, **HTML**, and **Javascript** for frontend development.
+
+For the backend, I have knowledge in utilizing **Typescript**, **Express.js**, and **Node.js**, and I am skilled in using **Sequelize** for effective data management. Additionally, I have experience with testing tools like **Jest**, **Mocha**, **Chai**, and **Sinon**. I am knowledgeable in **MySQL** for structured data storage and retrieval, and I am familiar with **Docker** and **Docker Compose** for seamless deployment.
+
+
+My main skills are crafting refined library APIs, implementing software testing methodologies, adhering to software design principles for API modeling, and utilizing my educational background to bring impactful interpersonal skills to my team.
+
+
+
+I am currently looking for an opportunity to channel my abilities into crafting remarkable experiences and products that truly make a difference.
+
+</div>
+
+
+
+<br/>
+
+---
+
+<div align="center"> 
   <p>How to reach me:</p>
   <a href = "mailto:soutogabriel04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielsouto-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-    
----
-### Minhas Tecnologias 💻
-
-Nesta seção, você encontrará algumas das tecnologias em que tenho experiência e que utilizo em meus projetos de desenvolvimento web. Estou constantemente buscando aprender e aprimorar minhas habilidades, mas as seguintes tecnologias são as que atualmente domino:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="**TypeScript**" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
-
