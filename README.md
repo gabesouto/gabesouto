@@ -14,10 +14,9 @@
 
 
 
-## About me
-
-
-
+<details closed>
+<summary>About me 👈</summary>
+<br />
 
 <div align="right" style="margin:auto">
      <a href="https://github.com/gabesouto">
@@ -43,6 +42,7 @@ My main skills are crafting refined library APIs, implementing software testing 
 I am currently looking for an opportunity to channel my abilities into crafting remarkable experiences and products that truly make a difference.
 
 </div>
+</details>
 
 
 
