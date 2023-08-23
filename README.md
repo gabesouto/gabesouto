@@ -30,9 +30,11 @@ Hey there!! I am Gabriel :wave:
 
 I am a dedicated full-stack developer with experience in teaching the English language and a degree in Physical Education. My goal is to create a positive impact
 
-My technology stack includes **Next.js**, **React.js**, **CSS**, **HTML**, and **Javascript** for frontend development.
 
-For the backend, I have knowledge in utilizing **Typescript**, **Express.js**, and **Node.js**, and I am skilled in using **Sequelize** for effective data management. Additionally, I have experience with testing tools like **Jest**, **Mocha**, **Chai**, and **Sinon**. I am knowledgeable in **MySQL** for structured data storage and retrieval, and I am familiar with **Docker** and **Docker Compose** for seamless deployment.
+My technology stack includes **Typescript**, **Express.js**, and **Node.js**, and I am skilled in using **Sequelize** for effective data management. Additionally, I have experience with testing tools like **Jest**, **Mocha**, **Chai**, and **Sinon**. I am knowledgeable in **MySQL** for structured data storage and retrieval, and I am familiar with **Docker** and **Docker Compose** for seamless deployment.
+
+
+For the frontend, I have knowledge in utilizing **Next.js**, **React.js**, **CSS**, **HTML**, and **Javascript** for frontend development.
 
 
 My main skills are crafting refined library APIs, implementing software testing methodologies, adhering to software design principles for API modeling, and utilizing my educational background to bring impactful interpersonal skills to my team.
