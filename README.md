@@ -41,7 +41,7 @@ My main skills are crafting refined library APIs, implementing software testing 
 
 
 
-I am currently looking for an opportunity to channel my abilities into crafting remarkable experiences and products that truly make a difference.
+I am currently open to work!.
 
 </div>
 </details>
