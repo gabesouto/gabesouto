@@ -41,7 +41,7 @@ My main skills are crafting refined library APIs, implementing software testing 
 
 
 
-I am currently open to work!.
+I am currently open to work!
 
 </div>
 </details>
