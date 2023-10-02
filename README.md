@@ -20,7 +20,7 @@
 
 <div align="right" style="margin:auto">
      <a href="https://github.com/gabesouto">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabesouto&theme=cobalt&hide_border=false&&layout=compact&include_all_commits=true" alt="most used languages"
+      <img height="150em" src="https://github-readme-stats-gabesouto.vercel.app/api/top-langs/?username=gabesouto&theme=cobalt&hide_border=false&&layout=compact&include_all_commits=true" alt="most used languages"
 align="right">
     </a>
 </div>
