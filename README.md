@@ -73,17 +73,17 @@ During the 2020 pandemic, as I entered the incredible milestone of turning 20, I
 
 <div align="center" style="margin:auto">
     <div align="center" >
-     <a href="https://github.com/gabesouto">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="150em" src="https://github-readme-stats-gabesouto.vercel.app/api/top-langs/?username=gabesouto&theme=cobalt&hide_border=false&&layout=compact&include_all_commits=true" alt="most used languages"
 align="center">
     </a>
     </div>
-    <div align="center" >
-     <a href="https://github.com/gabesouto">
-      <img height="150em" src="https://github-readme-stats-gabesouto.vercel.app/api/wakatime?username=gabesouto&layout=compact"
-align="center">
-    </a>
-    </div>
+      <div>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="top" style="padding-top:2rem"  src="https://github-readme-stats-gabriel.vercel.app/api?username=gabesouto&show_icons=true&theme=radical&include_all_commits=true"/>
+   </a>
+  </div>
+</div>
 </div>
 
 
