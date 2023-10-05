@@ -1,8 +1,7 @@
-
-![Backend Engineering](https://github.com/gabesouto/gabesouto/blob/main/inseriR.png)
-    
 <div align="center">
-<b>Full-Stack Developer</b>
+<img src="https://github.com/gabesouto/gabesouto/blob/main/banner.png" alt=""/>
+    
+
 <br>
 
 ###
