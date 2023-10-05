@@ -3,6 +3,30 @@
 <div align="center">
 <b>Full-Stack Developer</b>
 <br>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
 <br>
 
 <blockquote>
@@ -14,46 +38,57 @@
 
 
 
-<details closed>
-<summary>About me 👈</summary>
+
 <br />
 
-<div align="right" style="margin:auto">
+
+
+
+## Hello there
+
+
+
+I'm Gabriel, a dedicated full-stack developer with a background in teaching English and a degree in Physical Education.
+
+During the 2020 pandemic, as I entered the incredible milestone of turning 20, I realized that I wasn't on the path I had believed in when I was younger—a path that would provide me with experiences and a life worth living. That's why I quit my job as an English instructor and my internship and second degree in physical education to pursue a career in development. Fortunately, I made the right decision! Now, it's about living the life I've chosen.
+
+
+
+
+
+
+
+
+## Detailed information
+
+* **Name**: Gabriel Dos Santos Souto    
+* **Age**: 23
+* **Living in**: the moment (but geographically in São Gabriel - RS, Brazil).
+* **Stack**: Typescript, NodeJS, C#, Java, ReactJS, SQL, CSS.
+* **University**: I don't hold a degree in development, only certificates from bootcamps and courses. However, I am a P.E teacher 🏀.
+
+</div>
+
+## Some stats and what I'm currently working on 
+
+<div align="center" style="margin:auto">
+    <div align="center" >
      <a href="https://github.com/gabesouto">
       <img height="150em" src="https://github-readme-stats-gabesouto.vercel.app/api/top-langs/?username=gabesouto&theme=cobalt&hide_border=false&&layout=compact&include_all_commits=true" alt="most used languages"
-align="right">
+align="center">
     </a>
+    </div>
+    <div align="center" >
+     <a href="https://github.com/gabesouto">
+      <img height="150em" src="https://github-readme-stats-gabesouto.vercel.app/api/wakatime?username=gabesouto&layout=compact"
+align="center">
+    </a>
+    </div>
 </div>
-
-
-Hey there!! I am Gabriel :wave:
-
-I am a dedicated full-stack developer with experience in teaching the English language and a degree in Physical Education. 
-
-
-My technology stack includes **Typescript**, **Express.js**, and **Node.js**, and I am skilled in using **Sequelize** for effective data management. Additionally, I have experience with testing tools like **Jest**, **Mocha**, **Chai**, and **Sinon**. I am knowledgeable in **MySQL** for structured data storage and retrieval, and I am familiar with **Docker** and **Docker Compose** for seamless deployment.
-
-
-For the frontend, I have knowledge in utilizing **Next.js**, **React.js**, **CSS**, **HTML**, and **Javascript** for frontend development.
-
-
-My main skills are crafting refined library APIs, implementing software testing methodologies, adhering to software design principles for API modeling, and utilizing my educational background to bring impactful interpersonal skills to my team.
-
-
-
-I am currently open to work!
-
-</div>
-</details>
-
 
 
 <br/>
 
----
+<br/>
 
-<div align="center"> 
-  <p>How to reach me:</p>
-  <a href = "mailto:soutogabriel04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielsouto-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
