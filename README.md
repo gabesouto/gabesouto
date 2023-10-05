@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/gabesouto/gabesouto/blob/main/rsz_1banner.png"  height="400" alt=""/>
+<img src="https://github.com/gabesouto/gabesouto/blob/main/rsz_banner2.png"  height="400" alt=""/>
     
 
 <br>
