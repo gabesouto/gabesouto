@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33 alt="typescript logo"  />
@@ -69,7 +69,19 @@ During the 2020 pandemic, as I entered the incredible milestone of turning 20, I
 
 </div>
 
+---
 
 <br/>
+<div align=center >
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-gabesouto.vercel.app/api?username=gabesouto&theme=cobalt&title_color=ff924c&bg_color=041845" />
+</a>
+    <img width=50 >
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-gabesouto.vercel.app/api/top-langs?username=gabesouto&layout=compact&langs_count=8&card_width=320&theme=cobalt&title_color=ff924c&bg_color=041845" />
+</a>
+</div>
+
+
 
 
