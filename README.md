@@ -50,7 +50,7 @@
 
 I'm Gabriel, a dedicated full-stack developer with a background in teaching English and a degree in Physical Education.
 
-During the 2020 pandemic, as I entered the incredible milestone of turning 20, I realized that I wasn't on the path I had believed in when I was younger—a path that would provide me with experiences and a life worth living. That's why I quit my job as an English instructor and my internship and second degree in physical education to pursue a career in development. Fortunately, I made the right decision! Now, it's about living the life I've chosen.
+During the 2020 pandemic, as I entered the incredible milestone of turning 20, I realized that I wasn't on the path I had believed in when I was younger, so In 2022 I took a surprising turn, leaving my previous career to venture into the tech world. My experience as an English instructor taught me that everything revolves around people. I'm passionate about creating and connecting, and I've found the freedom and universal knowledge in programming to be incredibly exciting. I'm currently #openToWork! 
 
 
 
@@ -72,11 +72,11 @@ During the 2020 pandemic, as I entered the incredible milestone of turning 20, I
 ---
 
 <br/>
-<div align=center >
+<div align=center  >
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-gabesouto.vercel.app/api?username=gabesouto&theme=cobalt&title_color=ff924c&bg_color=041845&include_all_commits=true" />
 </a>
-    <img width=50 >
+    <img width="50" >
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-gabesouto.vercel.app/api/top-langs?username=gabesouto&layout=compact&langs_count=8&card_width=320&theme=cobalt&title_color=ff924c&bg_color=041845" />
 </a>
