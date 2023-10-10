@@ -74,7 +74,7 @@ During the 2020 pandemic, as I entered the incredible milestone of turning 20, I
 <br/>
 <div align=center  >
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-gabesouto.vercel.app/api?username=gabesouto&theme=cobalt&title_color=ff924c&bg_color=041845" />
+  <img height=200 align="center" src="https://github-readme-stats-gabesouto.vercel.app/api?username=gabesouto&theme=cobalt&title_color=ff924c&bg_color=041845&include_all_commits=true" />
 </a>
     <img width="20" >
 <a href="https://github.com/anuraghazra/convoychat">
