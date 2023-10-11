@@ -64,7 +64,7 @@ During the 2020 pandemic, as I entered the incredible milestone of turning 20, I
 * **Name**: Gabriel Dos Santos Souto    
 * **Age**: 23
 * **Living in**: the moment (but geographically in São Gabriel - RS, Brazil).
-* **Stack**: Typescript, NodeJS, C#, Java, ReactJS, SQL, CSS.
+* **Stack**: Typescript, NodeJS, C#, Java, ReactJS, SQL, CSS, Java
 * **University**: I don't hold a degree in development, only certificates from bootcamps and courses. However, I am a P.E teacher 🏀.
 
 </div>
