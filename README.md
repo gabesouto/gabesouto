@@ -1,86 +1,25 @@
-<div align="center">
-<img src="https://github.com/gabesouto/gabesouto/blob/main/rsz_4banner.png"  alt="" width="100%"/>
-    
-
-<br>
-
-###
-
-<div align="center" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33 alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="33" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="33" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="33" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="33" alt="tailwindcss logo"  />
-</div>
-
-###
-<br>
-
-<blockquote>
-    <p><i>
-       "The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater." - J.R.R. Tolkien, The Fellowship of the Ring
-    </i></p>
-</blockquote>
-</div>
+## hi there 
+#### #OpenToWork
+- 🧙‍♂️ Currently focused on back-end application development but open to any coding-related opportunities.
+- 🏗️ Currently building GAMP alongside with my colleagues from Trybe
+- 📘 Focused in .NET and Java, but always tinkering with something in the JavaScript multiverse
+- 🎮 A TFT player in my free time, almost catching up with One Piece 🏴‍☠️
+- 💻 Open to new career opportunities
 
 
 
+## 📫 How to Reach Me:
+  
+ <a href="mailto:anduca.sarah@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ [![image](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-anduca/)
 
-<br />
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-
-
-## Hello there
-
-
-
-I'm Gabriel, a dedicated full-stack developer with a background in teaching English and a degree in Physical Education.
-
-During the 2020 pandemic, as I entered the incredible milestone of turning 20, I realized that I wasn't on the path I had believed in when I was younger, so In 2022 I took a surprising turn, leaving my previous career to venture into the tech world. My experience as an English instructor taught me that everything revolves around people. I'm passionate about creating and connecting, and I've found the freedom and universal knowledge in programming to be incredibly exciting. I'm currently #OpenToWork! 
-
-
-
-
-
-
-
-
-## Detailed information
-
-* **Name**: Gabriel Dos Santos Souto    
-* **Age**: 23
-* **Living in**: the moment (but geographically in São Gabriel - RS, Brazil).
-* **Stack**: Typescript, NodeJS, C#, Java, ReactJS, SQL, CSS, Java
-* **University**: I don't hold a degree in development, only certificates from bootcamps and courses. However, I am a P.E teacher 🏀.
-
-</div>
-
----
-
-<br/>
-<div align=center  >
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-gabesouto.vercel.app/api?username=gabesouto&theme=cobalt&title_color=ff924c&bg_color=041845" />
-</a>
-    <img width="20" >
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-gabesouto.vercel.app/api/top-langs?username=gabesouto&layout=compact&langs_count=8&card_width=320&theme=cobalt&title_color=ff924c&bg_color=041845&include_all_commits=true" />
-</a>
-</div>
+# 👩‍💻 what I'm coding these days:
+![Customized Card](https://github-readme-stats-gabesouto.vercel.app/api/pin?username=GAMP-GROUP\&repo=Recipe-APP-GAMP\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats-gabesouto.vercel.app/api/pin?username=gabesouto\&repo=Trybe-Football-Club\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats-gabesouto.vercel.app/api/pin?username=gabesouto\&repo=recipe-api\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 
 
