@@ -1,5 +1,4 @@
 ## hi there 
-#### #OpenToWork
 - 🧙‍♂️ Currently focused on back-end application development but open to any coding-related opportunities.
 - 🏗️ Currently building GAMP alongside with my colleagues from Trybe
 - 📘 Focused in .NET and Java, but always tinkering with something in the JavaScript multiverse
