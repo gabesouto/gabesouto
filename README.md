@@ -19,7 +19,7 @@
 ## 👩‍💻 what I'm coding these days:
 [![Customized Card](https://github-readme-stats-gabesouto.vercel.app/api/pin?username=GAMP-GROUP&repo=Recipe-APP-GAMP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/GAMP-GROUP/Recipe-APP-GAMP)
 [![Customized Card](https://github-readme-stats-gabesouto.vercel.app/api/pin?username=gabesouto&repo=Trybe-Football-Club&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/gabesouto/Trybe-Football-Club)
-[![Customized Card](https://github-readme-stats-gabesouto.vercel.app/api/pin?username=gabesouto&repo=recipe-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/gabesouto/recipe-api)
+[![Customized Card](https://github-readme-stats-gabesouto.vercel.app/api/pin?username=gabesouto&repo=hotelManegement2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/gabesouto/recipe-api)
 
 
 
