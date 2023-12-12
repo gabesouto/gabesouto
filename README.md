@@ -36,7 +36,12 @@
 
 I'm Gabriel, a dedicated full-stack developer with a background in teaching English and a degree in Physical Education.
 During the 2020 pandemic, as I entered the incredible milestone of turning 20, I realized that I wasn't on the path I had believed in when I was younger, so In 2022 I took a surprising turn, leaving my previous career to venture into the tech world. My experience as an English instructor taught me that everything revolves around people. I'm passionate about creating and connecting, and I've found the freedom and universal knowledge in programming to be incredibly exciting. I'm currently looking for a job opportunity :)
+
+ <br/>
 </details>
+
+
+ 
 
 <details closed>
 <summary>Detailed Information</summary>
@@ -47,6 +52,8 @@ During the 2020 pandemic, as I entered the incredible milestone of turning 20, I
 * **Living in**: the moment (but geographically in São Gabriel - RS, Brazil).
 * **Stack**: Typescript, NodeJS, C#, Java, ReactJS, SQL, CSS, Java
 * **Education**: [Full-Stack Web Development Course ](https://www.credential.net/b1ddcf9e-2830-42be-8374-27a26c336803#gs.207cwz), [Foundational C# with Microsoft ](https://www.freecodecamp.org/certification/fcc06e67b7c-0c1f-4121-9ae1-3db85250b1a9/foundational-c-sharp-with-microsoft), [Computer Science Course ]( https://www.credential.net/dd1bcc7b-7026-4091-8528-e3445ea5904f#gs.6j9g5s).
+
+  <br/>
 
 </div>
 </details>
@@ -61,11 +68,12 @@ During the 2020 pandemic, as I entered the incredible milestone of turning 20, I
 
 </details>
 
+<br/>
+
 <div align=center  >
     <a href="https://wakatime.com/@gabesouto">
         <img src="https://wakatime.com/badge/user/cdd125b6-6330-4a4d-9626-bd4cbb55c627.svg"
              alt="Wakatime">
     </a>
-
   
 </div>
