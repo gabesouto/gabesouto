@@ -35,7 +35,7 @@
 <br/>
 
 I'm Gabriel, a dedicated full-stack developer with a background in teaching English and a degree in Physical Education.
-During the 2020 pandemic, as I entered the incredible milestone of turning 20, I realized that I wasn't on the path I had believed in when I was younger, so In 2022 I took a surprising turn, leaving my previous career to venture into the tech world. My experience as an English instructor taught me that everything revolves around people. I'm passionate about creating and connecting, and I've found the freedom and universal knowledge in programming to be incredibly exciting. I'm currently looking for a job opportunity :)
+During the 2020 pandemic, I realized a few things on how I wanted my life to go so In 2022 I took a surprising turn, leaving my previous career to venture into the tech world. My experience as an English instructor taught me that everything revolves around people. I'm passionate about creating and connecting, and I've found the freedom and universal knowledge in programming to be incredibly exciting. I'm currently looking for a job opportunity :)
 
  <br/>
 </details>
