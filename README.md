@@ -1,78 +1,42 @@
-<div align="center">
-  
-# Gabriel Dos Santos Souto
+# 👋 Hi There
 
-<b>Full-Stack Developer</b>
-
-<br/>
-  
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="25" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="25" alt="microsoftsqlserver logo"  />
-</div>
+- 🧙‍♂️ Currently focused on back-end application development but open to any coding-related opportunities.
+- 📘 Currently focused in Java, but always tinkering with something in the JavaScript multiverse
+- 🎮 A TFT player in my free time, almost catching up with One Piece 🏴‍☠️
+- 💻 Open to new career opportunities
+- 📘 these are some courses that I've graduated already (I'm always doing something so this changes a lot: [Full-Stack Web Development Course ](https://www.credential.net/b1ddcf9e-2830-42be-8374-27a26c336803#gs.207cwz), [Foundational C# with Microsoft ](https://www.freecodecamp.org/certification/fcc06e67b7c-0c1f-4121-9ae1-3db85250b1a9/foundational-c-sharp-with-microsoft), [Computer Science Course ]( https://www.credential.net/dd1bcc7b-7026-4091-8528-e3445ea5904f#gs.6j9g5s).
 
 
-<br>
-<blockquote>
-    <p><i>
-       "The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater." - J.R.R. Tolkien, The Fellowship of the Ring
-    </i></p>
-</blockquote>
-</div>
-<br />
+# 🚀 About Me
 
-<details closed>
-<summary>About Me</summary>
-  
-<br/>
+Hey there! I'm Gabriel, diving into programming since 2022, mainly geeking out on back-end development with a sweet spot for Java. In my pre-coding life, I worked as an English teacher for over 2 years and secured a degree in Physical Education.
 
-I'm Gabriel, a dedicated full-stack developer with a background in teaching English and a degree in Physical Education.
-During the 2020 pandemic, I realized a few things on how I wanted my life to go so In 2022 I took a surprising turn, leaving my previous career to venture into the tech world. My experience as an English instructor taught me that everything revolves around people. I'm passionate about creating and connecting, and I've found the freedom and universal knowledge in programming to be incredibly exciting. I'm currently looking for a job opportunity :)
+My backstory? It's a bit of a mixed bag—I've got teaching English and a Physical Education degree in the blend. Those experiences turned me into a problem-solving, team-loving enthusiast.
 
- <br/>
-</details>
+Looking ahead, I'm all about leveling up my coding and personal skills, Excited to jump into collaborative coding adventures, Currently open to new opportunities! :)
 
 
- 
+# 💻 Tech Stack
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60">](https://www.w3schools.com/cs/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60">](https://www.w3schools.com/css/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="60" height="60">](https://dotnet.microsoft.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="60">](https://expressjs.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60">](https://www.w3.org/html/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60">](https://www.java.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+[<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60" height="60">](https://www.microsoft.com/en-us/sql-server/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60">](https://www.mysql.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60">](https://nodejs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60">](https://reactjs.org/)
+[<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="60" height="60">](https://spring.io/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60">](https://www.typescriptlang.org/)
 
-<details closed>
-<summary>Detailed Information</summary>
-  <br/>
-  
-* **Name**: Gabriel Dos Santos Souto    
-* **Age**: 23
-* **Living in**: the moment (but geographically in São Gabriel - RS, Brazil).
-* **Stack**: Typescript, NodeJS, C#, Java, ReactJS, SQL, CSS, Java
-* **Education**: [Full-Stack Web Development Course ](https://www.credential.net/b1ddcf9e-2830-42be-8374-27a26c336803#gs.207cwz), [Foundational C# with Microsoft ](https://www.freecodecamp.org/certification/fcc06e67b7c-0c1f-4121-9ae1-3db85250b1a9/foundational-c-sharp-with-microsoft), [Computer Science Course ]( https://www.credential.net/dd1bcc7b-7026-4091-8528-e3445ea5904f#gs.6j9g5s).
 
-  <br/>
 
-</div>
-</details>
 
-<details closed>
-  <summary>How To Reach Me</summary>
-  
-  <br/>
-  
+
+# 📫 How To Reach Me:
  <a href="mailto:soutogabriel04@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
  [![image](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsouto-developer/)
 
-</details>
-
-<br/>
-
-<div align=center  >
-    <a href="https://wakatime.com/@gabesouto">
-        <img src="https://wakatime.com/badge/user/cdd125b6-6330-4a4d-9626-bd4cbb55c627.svg"
-             alt="Wakatime">
-    </a>
-  
-</div>
+> "The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater." - J.R.R. Tolkien, The Fellowship of the Ring
