@@ -2,18 +2,16 @@
 
 - 🧙‍♂️ Currently focused on back-end application development but open to any coding-related opportunities.
 - 📘 Currently focused in Java, but always tinkering with something in the JavaScript multiverse
-- 🎮 A TFT player in my free time, almost catching up with One Piece 🏴‍☠️
+- 🎮 Playing Baldur's Gate 3 in my free time, almost catching up with One Piece 🏴‍☠️
 - 💻 Open to new career opportunities
 - 📘 these are some courses that I've graduated already (I'm always doing something so this changes a lot: [Full-Stack Web Development Course ](https://www.credential.net/b1ddcf9e-2830-42be-8374-27a26c336803#gs.207cwz), [Foundational C# with Microsoft ](https://www.freecodecamp.org/certification/fcc06e67b7c-0c1f-4121-9ae1-3db85250b1a9/foundational-c-sharp-with-microsoft), [Computer Science Course ]( https://www.credential.net/dd1bcc7b-7026-4091-8528-e3445ea5904f#gs.6j9g5s).
 
 
 # About Me
 
-Hey there! I'm Gabriel, diving into programming since 2022, mainly focusing on back-end development with a sweet spot for Java. In my pre-coding life, I worked as an English teacher for over 2 years and secured a degree in Physical Education.
+Hey there! I'm Gabriel, diving into programming since 2022, mainly focusing on back-end development. In my pre-coding life, I worked as an English teacher for over 2 years and secured a degree in Physical Education, Those experiences turned me into a problem-solving, team-loving enthusiast.
 
-My backstory? It's a bit of a mixed bag—I've got teaching English and a Physical Education degree in the blend. Those experiences turned me into a problem-solving, team-loving enthusiast.
-
-Looking ahead, I'm all about leveling up my coding and personal skills, Excited to jump into collaborative coding adventures, Currently open to new opportunities! :)
+Looking ahead, I'm all about leveling up my coding and personal skills, Currently open to new carrer opportunities! :)
 
 
 # Tech Stack
