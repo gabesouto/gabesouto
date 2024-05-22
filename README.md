@@ -3,6 +3,7 @@
 - 🧙‍♂️ Currently focused on back-end application development but open to any coding-related opportunities.
 - 🎮 Playing Baldur's Gate 3 in my free time, almost catching up with One Piece 🏴‍☠️
 - 💻 Open to new career opportunities
+- 👨‍🎓 Graduating in Analysis and Systems Development
 - 📘 these are some courses that I've graduated already (I'm always doing something so this changes a lot: [Full-Stack Web Development Course ](https://www.credential.net/b1ddcf9e-2830-42be-8374-27a26c336803#gs.207cwz), [Foundational C# with Microsoft ](https://www.freecodecamp.org/certification/fcc06e67b7c-0c1f-4121-9ae1-3db85250b1a9/foundational-c-sharp-with-microsoft), [Computer Science Course ]( https://www.credential.net/dd1bcc7b-7026-4091-8528-e3445ea5904f#gs.6j9g5s).
 
 
