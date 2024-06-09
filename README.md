@@ -1,7 +1,7 @@
-<p align="center">
+<p align="left">
   <img 
     src="https://github.com/gabesouto/gabesouto/blob/main/working-from.gif"
-    align="right" 
+    align="center" 
     height="200" 
     width="auto" 
   >
@@ -11,7 +11,10 @@
 
 🇬🇧 - I am a Software Developer, and I am currently pursuing a degree in Systems Analysis and Development at the International University Center (UNINTER).
 
+
+
 🇧🇷 - Sou Desenvolvedor de Software, e atualmente estou me graduando em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER) 
+
 
 # Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
