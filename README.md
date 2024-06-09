@@ -1,4 +1,4 @@
-<p align="right">
+  <p align="center">
   <img 
     src="https://github.com/gabesouto/gabesouto/blob/main/working-from.gif"
     align="center" 
@@ -7,13 +7,15 @@
   >
 <p/>
 
-# Gabriel Souto
 
-🇬🇧 - I am a Software Developer, and I am currently pursuing a degree in Systems Analysis and Development at the International University Center (UNINTER).
-
-
-
-🇧🇷 - Sou Desenvolvedor de Software, e atualmente estou me graduando em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER) 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h1>Gabriel Souto</h1>
+    <p>🇬🇧 - I am a Software Developer, and I am currently pursuing a degree in Systems Analysis and Development at the International University Center (UNINTER).</p>
+    <p>🇧🇷 - Sou Desenvolvedor de Software, e atualmente estou me graduando em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER).</p>
+  </div>
+  
+</div>
 
 
 # Tech Stack
@@ -34,11 +36,9 @@
 
 
 
-
-
-
 #  How To Reach Me:
  <a href="mailto:soutogabriel04@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
  [![image](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsouto-developer/)
 
-> "The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater." - J.R.R. Tolkien, The Fellowship of the Ring
+
+
