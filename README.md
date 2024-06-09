@@ -1,3 +1,12 @@
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+    align="center" 
+    height="200" 
+    width="auto" 
+  >
+<p/>
+
 # Gabriel Souto
 
 🇬🇧 - I am a Software Developer, and I am currently pursuing a degree in Systems Analysis and Development at the International University Center (UNINTER).
