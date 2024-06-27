@@ -12,7 +12,7 @@
   <div style="flex: 1;">
     <h1>Hello there</h1>
     <p>🇬🇧 - I am a Software Developer, and I am currently pursuing a degree in Systems Analysis and Development at the International University Center (UNINTER).</p>
-    <p>🇧🇷 - Sou Desenvolvedor de Software, e atualmente estou me graduando em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER).</p>
+    <p>🇧🇷 - Sou Desenvolvedor de Software e atualmente estou me graduando em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER).</p>
   </div>
   
 </div>
