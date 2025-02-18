@@ -12,8 +12,8 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <h1>Hello there</h1>
-    <p>🇬🇧 - I am a Software Developer, and I am currently working as a software developer at <a href="https://shakersagencia.com.br/" > Shakers </a> and  pursuing a degree in Systems Analysis and Development at the International University Center (UNINTER).</p>
-    <p>🇧🇷 - Sou Desenvolvedor de Software e atualmente estou trabalhando como desenvolvedor de software na <a href="https://shakersagencia.com.br/" > Shakers </a> e estou me graduando em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER).</p>
+    <p>🇬🇧 - I am a Software Developer, and I am currently working as a front-end developer at <a href="https://shakersagencia.com.br/" > Shakers </a> and  pursuing a degree in Systems Analysis and Development at the International University Center (UNINTER).</p>
+    <p>🇧🇷 - Sou Desenvolvedor de Software e atualmente estou trabalhando como desenvolvedor front-end na <a href="https://shakersagencia.com.br/" > Shakers </a> e estou me graduando em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER).</p>
   </div>
   
 </div>
